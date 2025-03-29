@@ -10,5 +10,5 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Me gustan los dinosautio :-)
+- Me gustan los dinosaurios :-)
 - Tengo un gato 3 gatos, chloe, oliver y luna
