@@ -4,10 +4,11 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Fabrizio Alexander Rojas
+- Vivo en Ituzaingo
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Me gustan los dinosautio :-)
+- Tengo un gato 3 gatos, chloe, oliver y luna
